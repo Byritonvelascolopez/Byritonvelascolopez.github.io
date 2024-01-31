@@ -1,0 +1,41 @@
+div{
+    border: solid 1px blue;
+    width: 250px;
+    height: 250px;
+}
+
+.uno{
+    background-color: brown;
+    /*width:750px;
+    position: sticky;
+    top:20px;*/
+}
+
+.dos{
+    background-color: aqua;
+    position: relative;
+    left:100px
+    
+}
+
+.tres{
+    background-color: red;
+    position: absolute;
+}
+
+.cuatro{
+    background-color: yellow;
+    /*position: fixed;
+    left:auto;*/
+}
+
+.cinco{
+    background-color: green;
+    float: right;
+}
+
+.seis{
+    background-color: purple;
+    float: right;
+    z-index: 1000;
+}

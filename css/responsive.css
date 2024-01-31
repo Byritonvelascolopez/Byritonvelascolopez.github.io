@@ -1,0 +1,30 @@
+@media (max-width: 1201px){
+    h1{
+        color: brown;
+    }
+}
+
+@media (max-width: 1024px){
+    h1{
+        color: blue;
+    }
+}
+
+@media (max-width: 768px){
+    h1{
+        color: gray;
+    }
+}
+
+@media (max-width: 480px){
+    h1{
+        color: green;
+    }
+}
+
+@media (max-width: 320px){
+    h1{
+        color: purple;
+        display: none;
+    }
+}
